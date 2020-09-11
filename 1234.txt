@@ -1,0 +1,2 @@
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
