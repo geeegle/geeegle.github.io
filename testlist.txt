@@ -1,1 +1,16 @@
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+NHK G,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+日本电视台,http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+朝日电视台,http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+TBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+富士电视台,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+东京电视台,http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+NHK BS1,http://redlabmcdn.s.llnwi.net/nv02/BS01hd/index.m3u8
+NHK BSP,http://redlabmcdn.s.llnwi.net/nv02/BS02hd/index.m3u8
+BS日テレ,http://redlabmcdn.s.llnwi.net/nv02/BS03hd/index.m3u8
+BS朝日,http://redlabmcdn.s.llnwi.net/nv02/BS04hd/index.m3u8
+BSTBS,http://redlabmcdn.s.llnwi.net/nv02/BS05hd/index.m3u8
+BSテレ東,http://redlabmcdn.s.llnwi.net/nv02/BS06hd/index.m3u8
+BSフジ,http://redlabmcdn.s.llnwi.net/nv02/BS07hd/index.m3u8
+BS12,http://redlabmcdn.s.llnwi.net/nv02/BS08hd/index.m3u8
+STAR1,http://redlabmcdn.s.llnwi.net/nv02/BS09hd/index.m3u8
+STAR2,http://redlabmcdn.s.llnwi.net/nv02/BS10hd/index.m3u8
